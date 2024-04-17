@@ -1,5 +1,5 @@
 {
-	"name": "@lorne/targetpractice",
+	"name": "lorne-targetpractice",
 	"version": "1.0.0",
 	"main": "main.js",
 	"dependencies": {
